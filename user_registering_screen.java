@@ -6,5 +6,6 @@ public class user_registering_screen {
         System.out.println("2. Enter Password");
         System.out.println("3. Confirm Registration");
         System.out.print("Choose an option: - ");
+        
     }
 }
